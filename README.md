@@ -50,7 +50,7 @@ The lab provides an isolated and controlled environment for cybersecurity learni
 ---
 
 ## 🏗️ Lab Architecture
-![Lab Architecture](lab architecture.png)
+![Lab Architecture](labarchitecture.png)
 
 ---
 
