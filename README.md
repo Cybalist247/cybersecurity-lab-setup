@@ -276,7 +276,7 @@ cybersecurity-lab-setup/
 
 **Abdulrahman Sahban Musa**  
 Cybersecurity Student 
-[LinkedIn](https://www.linkedin.com/in/waqaskarim/) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/abdulrahman-musa-83002a25a/) | [GitHub](https://github.com/Cybalist247)
 
 ---
 
