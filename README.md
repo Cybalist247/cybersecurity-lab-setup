@@ -155,6 +155,18 @@ After completing the initial configuration, a VirtualBox snapshot was created:
 ---
 
 ## ✅ Lab Verification
+### Network Configuration
+![NAT Network Configuration](1-nat-network.png)
+
+### Kali IP Address Verification
+![Kali Ip Address](2-kali-ip.png)
+
+### Internet Connectivity Test
+![Ping Test to 8.8.8.8](3-ping-test.png)
+
+### DNS Resolution Test
+![DNS Resolution Test](4-dns-test.png)
+
 
 | Test | Command | Expected Result | Status |
 |------|---------|-----------------|--------|
