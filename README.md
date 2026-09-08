@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Cybersecurity & Penetration Testing Lab Setup
 
 > **A VirtualBox-based cybersecurity laboratory for ethical hacking, penetration testing, and security research.**
