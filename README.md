@@ -155,15 +155,24 @@ After completing the initial configuration, a VirtualBox snapshot was created:
 
 ## ✅ Lab Verification
 
+### Network Configuration
+![NAT Network Configuration](1-nat-nettwork.png)
 
+### Kali IP Address Verification
+![Kali IP Address](2-kali-ip.png)
+
+### Internet Connectivity Test
+![Ping Test to 8.8.8.8](3-ping-test.png)
+
+### DNS Resolution Test
+![DNS Resolution Test](4-dns-test.png)
 
 | Test | Command | Expected Result | Status |
 |------|---------|-----------------|--------|
-| Check IP address | `ip a` | 10.0.0.2/24 displayed | ✅ |
-| Test gateway | `ping 10.0.0.1` | Successful replies | ✅ |
+| Check IP | `ip a` | 10.0.0.2/24 | ✅ |
+| Test Gateway | `ping 10.0.0.1` | Successful replies | ✅ |
 | Test Internet | `ping 8.8.8.8` | Successful replies | ✅ |
 | Test DNS | `ping google.com` | Domain resolves | ✅ |
-| Verify Nmap | `nmap --version` | Nmap version displayed | ✅ |
 
 **Example Results:**
 ```bash
