@@ -165,7 +165,7 @@ After completing the initial configuration, a VirtualBox snapshot was created:
 ![Ping Test to 8.8.8.8](3-ping-test.png)
 
 ### DNS Resolution Test
-![DNS Resolution Test](4-dns-test.png)
+![DNS Resolution Test](4-dns-test.png.png)
 
 | Test | Command | Expected Result | Status |
 |------|---------|-----------------|--------|
